@@ -1,2 +1,2 @@
-# springMVC-restful-jackon
+# springMVC-restful-jackson
 用springMVC实现rest风格的WebService，并用jackson解析json格式数据
